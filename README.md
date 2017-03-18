@@ -1,4 +1,4 @@
 # deep-reinforcement-learning
-The report summarizing and combing the knowledge learned about deep reinforcement learning and a RL model.
+The report summarizing and combing the knowledge learned about deep reinforcement learning.
 
-However, the report is not perfect now. I will fill the missing part soon.
+I have just updated the report into a new version.
